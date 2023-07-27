@@ -1,0 +1,32 @@
+body {
+    font-size: 1.2em;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    color: #fff;
+    margin: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1.0em;
+}
+
+.header {
+    padding: 1em;
+    margin: 0;
+}
+
+.bg-navy {
+    background-color: #002147;
+}
+
+.font-keaney {
+    color: #5eb4e2;
+}
+
+.font-gold {
+    color: #f9ca00;
+}
