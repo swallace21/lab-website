@@ -1,26 +1,54 @@
 body {
     font-size: 1.2em;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
-    color: #fff;
     margin: 0;
 }
 
 h1 {
     font-size: 1.5em;
     font-weight: 600;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin: 0;
+}
+
+h3 {
+    font-size: 1.0em;
+    font-weight: 600;
+    margin: 0;
 }
 
 p {
     font-size: 1.0em;
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    color: #fff;
+    box-shadow: 0 .125rem .25rem 0 rgba(0,0,0,.11);
 }
 
 .header {
-    padding: 1em;
+    padding: 0.5em;
     margin: 0;
+}
+
+.main {
+    color: #333;
+    padding: 1em;
 }
 
 .bg-navy {
     background-color: #002147;
+}
+
+.font-navy {
+    color: #002147;
 }
 
 .font-keaney {
@@ -29,4 +57,89 @@ p {
 
 .font-gold {
     color: #f9ca00;
+}
+
+.font-nord-green {
+    color: #8FBCBB;
+}
+
+.font-nord-light-blue {
+    color: #88C0D0;
+}
+
+.font-nord-blue {
+    color: #81A1C1;
+}
+
+.font-nord-dark-blue {
+    color: #5E81AC;
+}
+
+.font-nord-yellow {
+    color: #EBCB8B;
+}
+
+.font-dark-0 {
+    color: #2E3440;
+}
+
+.font-dark-1 {
+    color: #3B4252;
+}
+
+.font-dark-2 {
+    color: #434C5E;
+}
+
+.font-dark-3 {
+    color: #4C566A;
+}
+
+.font-light-0 {
+    color: #D8DEE9;
+}
+
+.font-light-1 {
+    color: #E5E9F0;
+}
+
+.font-light-2 {
+    color: #ECEFF4;
+}
+
+.bg-dark-0 {
+    background: #2E3440;
+}
+
+.bg-dark-1 {
+    background: #3B4252;
+}
+
+.bg-dark-2 {
+    background: #434C5E;
+}
+
+.bg-dark-3 {
+    background: #4C566A;
+}
+
+.bg-light-0 {
+    background: #D8DEE9;
+}
+
+.bg-light-1 {
+    background: #E5E9F0;
+}
+
+.bg-light-2 {
+    background: #ECEFF4;
+}
+
+.publications {
+    margin-top: 1em;
+}
+
+.paper {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
